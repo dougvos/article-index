@@ -1,6 +1,3 @@
-# article-index
-Better late than never. Starting today, and forever...
----
 1. [Fall Colors](https://dougvos.wordpress.com/2022/10/03/fall-colors/) - A colorful mosaic of art, images, and poetry - celebrating autumn 2022.
 2. [Henry's Kitchen](https://dougvos.wordpress.com/2022/10/02/henrys-kitchen/) - Henry Ford's Kitchen at Greenfield Village.
 3. [Lost Providence](https://dougvos.wordpress.com/2022/10/01/lost-providence/) - Architectural tension between classic and modern designs.
