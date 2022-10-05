@@ -11,6 +11,7 @@ Recent articles, blog posts, and book notes written by Douglas J. Vos
 * [Free Photos](https://www.dougvos.com/free-photos/) - Millions of free photos you can use on your blog, social media, or website.
 * [God at Work](https://dougvos.notion.site/God-At-Work-d30fb373411747f599ac2576e5685eab) - Book notes on the book by Gene Edward Veith, Jr. by the same title.
 * [God's Man in the Marketplace](https://dougvos.notion.site/God-s-Man-in-the-Marketplace-f1b075077f2546689ababd5ecb01816c) - Book notes on the book with subtitle - **_The Story of Herbert J. Taylor_**.
+* [Golf Balls](https://dougvos.wordpress.com/2022/10/05/golf-balls/) - An important life lesson from golf balls, to help you stay out of life's sand traps. 
 * [Henry's Kitchen](https://dougvos.wordpress.com/2022/10/02/henrys-kitchen/) - Henry Ford's Kitchen at Greenfield Village.
 * [Herbert J. Taylor](https://dougvos.wordpress.com/2022/09/30/herbert-j-taylor/) - CEO of Club Aluminum, and creator of the **4 Way Test**.
 * [Kenneth Frampton](https://dougvos.wordpress.com/2022/09/30/kenneth-frampton/) - Introduction to this historian of modernist architecture.
