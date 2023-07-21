@@ -3,6 +3,7 @@ Recent articles, blog posts, and book notes written by Douglas J. Vos
 * [A Little Book of the Christian Life](https://dougvos.notion.site/A-Little-Book-on-the-Christian-Life-cfd382ddab2942bdad7d981ffdba4bc3) - Booknotes on John Calvin's classic little book. 
 * [A Treatise of the Vocations](https://dougvos.notion.site/A-Treatise-of-the-Vocations-cad5b9b2c146495ea966ba98dc148e9d) - William Perkins' classic work (1603) on the callings or vocations or men, with the sorts and kinds of them.
 * [Architectural Motifs](https://www.dougvos.com/architectural-motifs/) - A brief introduction to architectural motifs, with examples and photos.
+* [Beautiful Homes in Dearborn, Michigan](https://www.dougvos.com/beautiful-homes-in-dearborn/) - There are many beautiful homes in Dearborn, Michigan. This article looks at some examples, with photographs and architectural descriptions.
 * [Evaluation Criteria For Websites](https://www.dougvos.com/evaluation-criteria-for-websites/) - 9 criteria for evaluating websites, including Accessibility, Beauty, Content, Design, Performance, Security, SEO, URL, and adherence to Web Standards
 * [Every Good Endeavor](https://dougvos.notion.site/Every-Good-Endeavor-4347385adfc947069df25a1de2eafea2) - Book notes and related resources about Tim Keller's book by the same title.
 * [Fall Colors](https://dougvos.wordpress.com/2022/10/03/fall-colors/) - A colorful mosaic of art, images, and poetry - celebrating autumn 2022.
